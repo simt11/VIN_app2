@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268028003765",
+    "project_id": "vin-app2",
+    "storage_bucket": "vin-app2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268028003765:android:de05642991555ceb6f45fc",
+        "android_client_info": {
+          "package_name": "com.example.vin_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268028003765-iadgqf2h0c5gmomacv3bc0sfiu5i6biq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAspMBogqP-voRompnJThm7m6UZre9IpNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268028003765-iadgqf2h0c5gmomacv3bc0sfiu5i6biq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

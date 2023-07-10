@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">VIN_app2</string>
+    <string name="vin">Введите VIN</string>
+    <string name="enter_phone">Введите номер телефона</string>
+    <string name="photo_button">Сделать фото</string>
 </resources>
